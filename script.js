@@ -8,3 +8,5 @@ function makeGreen() {
   p.style.color = '#BADA55';
   p.style.colot = '50px';
 }
+
+console.log(makeGreen)
