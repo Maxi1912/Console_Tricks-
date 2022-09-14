@@ -6,7 +6,6 @@ const dogs = [
 function makeGreen() {
   const p = document.querySelector('p');
   p.style.color = '#BADA55';
-  p.style.colot = '50px';
+  p.style.fontSize = '50px';
 }
 
-console.log(makeGreen)
